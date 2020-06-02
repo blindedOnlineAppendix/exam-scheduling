@@ -1,0 +1,192 @@
+---------Asignacion Seccion---------
+Student: 201911107
+Exam for section: ISIS120419
+Room: K2_101 Day 1 from 8.0 to 12.0
+Student: 201730786
+Exam for section: ISIS12042
+Room: ML_208 Day 2 from 16.0 to 20.0
+Student: 201923377
+Exam for section: ISIS120414
+Room: SD_307 Day 9 from 10.0 to 14.0
+Student: 201713344
+Exam for section: ISIS12211
+Room: Sd_716 Day 8 from 13.5 to 17.5
+Student: 201410881
+Exam for section: ISIS14046
+Room: O_405 Day 10 from 7.0 to 9.5
+Student: 201314634
+Exam for section: ISIS14049
+Room: W_401 Day 7 from 14.0 to 16.5
+Student: 201822937
+Exam for section: ISIS140417
+Room: LL_303 Day 3 from 17.0 to 19.5
+Student: 201510548
+Exam for section: ISIS14047
+Room: Au_309 Day 1 from 9.5 to 12.0
+Student: 201914912
+Exam for section: ISIS12051
+Room: ML_108B Day 14 from 11.5 to 15.5
+Student: 201512849
+Exam for section: ISIS120425
+Room: LL_205 Day 2 from 8.5 to 12.5
+Student: 201315177
+Exam for section: ISIS140419
+Room: Q_307 Day 1 from 12.5 to 15.0
+Student: 201426474
+Exam for section: ISIS22033
+Room: Au_206 Day 5 from 17.0 to 19.0
+Student: 201815624
+Exam for section: ISIS140412
+Room: SD_301 Day 14 from 7.0 to 9.5
+Student: 201823055
+Exam for section: ISIS140415
+Room: SD_201 Day 0 from 8.0 to 10.5
+Student: 201511114
+Exam for section: ISIS14043
+Room: W_403 Day 2 from 12.5 to 15.0
+Student: 201413415
+Exam for section: ISIS12043
+Room: B_201 Day 12 from 12.0 to 16.0
+Student: 201914976
+Exam for section: ISIS12053
+Room: W_403 Day 12 from 13.0 to 17.0
+Student: 201923829
+Exam for section: ISIS120420
+Room: Sd_804 Day 0 from 12.0 to 16.0
+Student: 201729680
+Exam for section: ISIS120411
+Room: Au_202 Day 4 from 10.0 to 14.0
+Student: 201127150
+Exam for section: ISIS120422
+Room: SD_303 Day 9 from 14.0 to 18.0
+Student: 201924823
+Exam for section: ISIS12055
+Room: O_101 Day 9 from 14.0 to 18.0
+Student: 201923932
+Exam for section: ISIS12214
+Room: ML_511 Day 2 from 7.5 to 11.5
+Student: 201512474
+Exam for section: ISIS37102
+Room: S1_003 Day 1 from 9.0 to 12.0
+Student: 201924905
+Exam for section: ISIS120418
+Room: LL_204 Day 2 from 9.5 to 13.5
+Student: 201534109
+Exam for section: ISIS120410
+Room: Au_208 Day 12 from 11.5 to 15.5
+Student: 201711029
+Exam for section: ISIS12041
+Room: Au_201 Day 2 from 13.5 to 17.5
+Student: 201815366
+Exam for section: ISIS140410
+Room: Au_404 Day 3 from 9.5 to 12.0
+Student: 201123131
+Exam for section: ISIS12056
+Room: SD_204 Day 14 from 13.0 to 17.0
+Student: 201316761
+Exam for section: ISIS48221
+Room: O_203 Day 13 from 10.5 to 13.5
+Student: 201822753
+Exam for section: ISIS12049
+Room: W_205 Day 7 from 15.5 to 19.5
+Student: 201514406
+Exam for section: ISIS12213
+Room: ML_107 Day 0 from 8.5 to 12.5
+Student: 201728075
+Exam for section: ISIS120415
+Room: Au_108 Day 14 from 15.0 to 19.0
+Student: 201426359
+Exam for section: ISIS140411
+Room: Au_209 Day 9 from 15.0 to 17.5
+Student: 201816823
+Exam for section: ISIS12048
+Room: Pu_100 Day 11 from 10.0 to 14.0
+Student: 201822651
+Exam for section: ISIS12045
+Room: G_101 Day 7 from 15.5 to 19.5
+Student: 201814350
+Exam for section: ISIS12052
+Room: O_401 Day 2 from 10.5 to 14.5
+Student: 201910931
+Exam for section: ISIS12047
+Room: SD_307 Day 12 from 8.5 to 12.5
+Student: 201426463
+Exam for section: ISIS22031
+Room: W_101 Day 4 from 15.0 to 17.0
+Exam for section: ISIS14049
+Room: W_401 Day 7 from 14.0 to 16.5
+Student: 201513608
+Exam for section: ISIS140418
+Room: ML_116 Day 8 from 7.0 to 9.5
+Student: 201729796
+Exam for section: ISIS120421
+Room: R_210 Day 14 from 13.5 to 17.5
+Student: 201327597
+Exam for section: ISIS120413
+Room: C_105 Day 3 from 10.0 to 14.0
+Student: 201123148
+Exam for section: ISIS12212
+Room: SD_402 Day 0 from 10.5 to 14.5
+Student: 201814337
+Exam for section: ISIS12044
+Room: Au_204 Day 1 from 9.0 to 13.0
+Student: 201915327
+Exam for section: ISIS12216
+Room: Au_302 Day 4 from 12.0 to 16.0
+Student: 201817053
+Exam for section: ISIS14044
+Room: ML_107 Day 2 from 13.0 to 15.5
+Student: 201822705
+Exam for section: ISIS12046
+Room: LL_203 Day 2 from 15.0 to 19.0
+Student: 201515055
+Exam for section: ISIS140416
+Room: SD_202 Day 14 from 16.0 to 18.5
+Student: 201713482
+Exam for section: ISIS120417
+Room: Y_111B Day 2 from 12.5 to 16.5
+Student: 200624033
+Exam for section: ISIS12054
+Room: Au_202 Day 7 from 13.5 to 17.5
+Student: 201412734
+Exam for section: ISIS37101
+Room: O_303 Day 1 from 14.0 to 17.0
+Student: 201914522
+Exam for section: ISIS12057
+Room: S1_001 Day 6 from 14.5 to 18.5
+Student: 201411326
+Exam for section: ISIS14041
+Room: W_202 Day 0 from 10.0 to 12.5
+Student: 201924816
+Exam for section: ISIS120416
+Room: Sd_704 Day 12 from 12.5 to 16.5
+Student: 201923800
+Exam for section: ISIS120412
+Room: ML_117 Day 9 from 15.0 to 19.0
+Student: 201915318
+Exam for section: ISIS120424
+Room: W_401 Day 7 from 12.0 to 16.0
+Student: 201514952
+Exam for section: ISIS22032
+Room: Sd_801 Day 3 from 9.5 to 11.5
+Student: 201923655
+Exam for section: ISIS12212
+Room: SD_402 Day 0 from 10.5 to 14.5
+Student: 201512699
+Exam for section: ISIS120423
+Room: LL_303 Day 5 from 15.0 to 19.0
+Student: 201912941
+Exam for section: ISIS14048
+Room: O_205 Day 11 from 10.0 to 12.5
+Student: 201024787
+Exam for section: ISIS14045
+Room: W_204 Day 12 from 9.5 to 12.0
+Student: 201316938
+Exam for section: ISIS14042
+Room: Au_402 Day 4 from 11.0 to 13.5
+Student: 201217185
+Exam for section: ISIS140413
+Room: ML_608 Day 3 from 10.0 to 12.5
+Student: 201414030
+Exam for section: ISIS12215
+Room: ML_513 Day 7 from 15.5 to 19.5
