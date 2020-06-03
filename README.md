@@ -9,7 +9,7 @@ This repo contains the data and results used for the evaluation of a Constraint 
 ## Code
 
 The code folder contains the main files used in the definition of our algorithm.
-This files should be integrated with the [OscaR-Modeling library]()
+This files should be integrated with the [OscaR-Modeling library](https://bitbucket.org/oscarlib/oscar/src/dev/)
 
 
 ## Data & Execution Setting
